@@ -27,6 +27,11 @@ efficiency, reduce downtime, strengthen product quality, and control
 costs.
 
 ------------------------------------------------------------------------
+![python Overview](./python%20Overview.png)>
+
+![Python Mth Trnd](./Python%20Mth%20Trnd.png)>
+
+![Python chaart](./Python%20chaart.png)>
 
 ## Dataset & Methodology
 
