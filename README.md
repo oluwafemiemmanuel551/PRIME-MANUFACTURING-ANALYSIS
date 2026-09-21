@@ -349,8 +349,6 @@ continuous operational improvement.
 -   Factory and production-line performance analysis
 -   Downtime hotspot analysis
 -   Product quality analysis
--   Cost-efficiency analysis
-
--   
+-   Cost-efficiency analysis 
 -   Machine reliability analysis
 -   Business recommendations
